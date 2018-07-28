@@ -6,9 +6,13 @@ RSS scrapper reads course exchanges from European Central Bank
 Add exchange_scrapper folder as an app and include urls. 
 
 In app directory exchange_scrapper there a Pipfile. Go there and type:
+
 ```pipenv install --python 3```
+
 Make migrations
-```python manage.py migrate'''
+
+```python manage.py migrate```
+
 
 ### Usage:
 EP:
